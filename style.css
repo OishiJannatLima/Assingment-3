@@ -1,0 +1,29 @@
+
+.list{
+    list-style: none;
+
+}
+.box {
+    background-image: url('images/banner.png');
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    /* width: 1010px; */
+    width: 100%;
+}
+.match{
+    width: 60px;
+    border: 3px solid white;
+}
+
+.input{
+    background-color: gray;
+    box-shadow: 5px 5px 5px 5px gray;
+    border: 2px solid gray;
+
+
+}
+ .found{
+    text-align: center;
+    /* width: 900px; */
+ }
